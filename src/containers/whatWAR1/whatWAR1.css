@@ -111,7 +111,7 @@
 
 @media screen and (max-width: 350px) {
     
-    .war1__whatwar1-container .war1__features-container__feature {
+    .war1__whatwar1-container, .war1__features-container__feature {
         margin: 1rem 0;
         min-width: 100%;
     }
