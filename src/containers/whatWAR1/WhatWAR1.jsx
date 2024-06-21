@@ -6,7 +6,7 @@ const WhatWAR1 =() => {
   return (
       <div className='war1__whatwar1 section__margin' id='wwar1'>
         <div className="war1__whatwar1-feature">
-        <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+        <Feature title="What is WAR-1" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
   
           </div>  
           <div className="war1__whatwar1-heading">
