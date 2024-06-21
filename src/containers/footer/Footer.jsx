@@ -34,15 +34,15 @@ const Footer = () => (
       </div>
       <div className="war1__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
+        <p> <a href="https://in.linkedin.com/in/gourav-wakalwar" target='_blank'>LinkedIn</a></p>
         <p>+9112345-67890</p>
-        <p>info@payme.net</p>
+        <p> <address><a href="mailto:gourav.wakalwar123@gmail.com">Email</a></address></p>
       </div>
     </div>
 
     <div className="war1__footer-copyright">
       <p>@2024 WAR-1. All rights reserved.</p>
-      
+
     </div>
   </div>
 );
